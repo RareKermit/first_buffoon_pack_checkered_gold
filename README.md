@@ -7,6 +7,6 @@ Results (roughly):
 
 "good" outcome: **~75%**  ("good" means clean rebate which is actually "great", but also includes eternal wrathful and perishable abstract)
 
-"good" OR having 5 or more dollars after taking pack:  **~87.5%**
+"good" OR having 5 or more dollars after taking pack:  **~87%**
 
 Conclusion:  You take the pack!  It's good!
