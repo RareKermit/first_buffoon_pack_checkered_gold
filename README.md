@@ -5,7 +5,7 @@ holo, foil, poly, and negative were not accounted for in this evaluation.
 
 Results (roughly):
 
-"good" outcome: ~75%
+"good" outcome: ~75%  ("good" means clean rebate which is actually "great", but also includes eternal wrathful and perishable abstract)
 
 "good" OR having 5 or more dollars after taking pack:  ~87.5%
 
