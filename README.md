@@ -6,6 +6,7 @@ holo, foil, poly, and negative were not accounted for in this evaluation.
 Results (roughly):
 
 "good" outcome: ~75%
+
 "good" OR having 5 or more dollars after taking pack:  ~87.5%
 
 Conclusion:  You take the pack!  It's good!
